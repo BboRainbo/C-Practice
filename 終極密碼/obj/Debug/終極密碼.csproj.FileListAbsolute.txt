@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\終極密碼\obj\Debug\終極密碼.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\終極密碼\obj\Debug\終極密碼.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\終極密碼\obj\Debug\終極密碼.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\終極密碼\bin\Debug\終極密碼.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\終極密碼\bin\Debug\終極密碼.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\終極密碼\bin\Debug\終極密碼.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\終極密碼\obj\Debug\終極密碼.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\終極密碼\obj\Debug\終極密碼.pdb

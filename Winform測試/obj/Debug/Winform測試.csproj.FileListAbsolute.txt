@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\bin\Debug\Winform測試.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\bin\Debug\Winform測試.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\bin\Debug\Winform測試.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\obj\Debug\Winform測試.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\obj\Debug\Winform測試.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\obj\Debug\Winform測試.Form1.resources
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\obj\Debug\Winform測試.Properties.Resources.resources
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\obj\Debug\Winform測試.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\obj\Debug\Winform測試.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\obj\Debug\Winform測試.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\Winform測試\obj\Debug\Winform測試.pdb

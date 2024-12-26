@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\回文\bin\Debug\回文.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\回文\bin\Debug\回文.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\回文\bin\Debug\回文.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\回文\obj\Debug\回文.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\回文\obj\Debug\回文.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\回文\obj\Debug\回文.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\回文\obj\Debug\回文.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\回文\obj\Debug\回文.pdb

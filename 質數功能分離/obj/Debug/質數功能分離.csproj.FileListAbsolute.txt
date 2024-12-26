@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數功能分離\bin\Debug\質數功能分離.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數功能分離\bin\Debug\質數功能分離.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數功能分離\bin\Debug\質數功能分離.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數功能分離\obj\Debug\質數功能分離.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數功能分離\obj\Debug\質數功能分離.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數功能分離\obj\Debug\質數功能分離.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數功能分離\obj\Debug\質數功能分離.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數功能分離\obj\Debug\質數功能分離.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\三元判斷+陣列 Contain\obj\Debug\三元判斷+陣列 Contain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\三元判斷+陣列 Contain\obj\Debug\三元判斷+陣列 Contain.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\三元判斷+陣列 Contain\obj\Debug\三元判斷+陣列 Contain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\三元判斷+陣列 Contain\bin\Debug\三元判斷+陣列 Contain.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\三元判斷+陣列 Contain\bin\Debug\三元判斷+陣列 Contain.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\三元判斷+陣列 Contain\bin\Debug\三元判斷+陣列 Contain.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\三元判斷+陣列 Contain\obj\Debug\三元判斷+陣列 Contain.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\三元判斷+陣列 Contain\obj\Debug\三元判斷+陣列 Contain.pdb

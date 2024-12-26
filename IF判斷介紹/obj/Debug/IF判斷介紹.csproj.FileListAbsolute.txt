@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\IF判斷介紹\bin\Debug\IF判斷介紹.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\IF判斷介紹\bin\Debug\IF判斷介紹.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\IF判斷介紹\bin\Debug\IF判斷介紹.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\IF判斷介紹\obj\Debug\IF判斷介紹.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\IF判斷介紹\obj\Debug\IF判斷介紹.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\IF判斷介紹\obj\Debug\IF判斷介紹.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\IF判斷介紹\obj\Debug\IF判斷介紹.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\IF判斷介紹\obj\Debug\IF判斷介紹.pdb

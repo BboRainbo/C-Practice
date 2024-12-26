@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\bin\Debug\CSharp基礎教學.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\obj\Debug\CSharp基礎教學.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\obj\Debug\CSharp基礎教學.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\obj\Debug\CSharp基礎教學.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\obj\Debug\CSharp基礎教學.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\bin\Debug\CSharp基礎教學.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\bin\Debug\CSharp基礎教學.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\bin\Debug\IF判斷介紹.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\bin\Debug\IF判斷介紹.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\bin\Debug\IF判斷介紹.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\obj\Debug\CSharp基礎教學.csproj.CopyComplete
+C:\Users\user\Desktop\Net\CSharp基礎教學\CSharp基礎教學\obj\Debug\CSharp基礎教學.exe

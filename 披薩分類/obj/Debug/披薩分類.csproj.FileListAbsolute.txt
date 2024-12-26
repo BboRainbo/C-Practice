@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\披薩分類\obj\Debug\披薩分類.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\披薩分類\obj\Debug\披薩分類.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\披薩分類\obj\Debug\披薩分類.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\披薩分類\bin\Debug\披薩分類.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\披薩分類\bin\Debug\披薩分類.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\披薩分類\bin\Debug\披薩分類.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\披薩分類\obj\Debug\披薩分類.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\披薩分類\obj\Debug\披薩分類.pdb

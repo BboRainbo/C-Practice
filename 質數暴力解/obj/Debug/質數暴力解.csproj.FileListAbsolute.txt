@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數暴力解\bin\Debug\質數暴力解.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數暴力解\bin\Debug\質數暴力解.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數暴力解\bin\Debug\質數暴力解.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數暴力解\obj\Debug\質數暴力解.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數暴力解\obj\Debug\質數暴力解.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數暴力解\obj\Debug\質數暴力解.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數暴力解\obj\Debug\質數暴力解.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\質數暴力解\obj\Debug\質數暴力解.pdb

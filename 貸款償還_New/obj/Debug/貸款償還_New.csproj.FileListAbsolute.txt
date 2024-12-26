@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\貸款償還_New\bin\Debug\貸款償還_New.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\貸款償還_New\bin\Debug\貸款償還_New.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\貸款償還_New\bin\Debug\貸款償還_New.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\貸款償還_New\obj\Debug\貸款償還_New.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\貸款償還_New\obj\Debug\貸款償還_New.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\貸款償還_New\obj\Debug\貸款償還_New.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\貸款償還_New\obj\Debug\貸款償還_New.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\貸款償還_New\obj\Debug\貸款償還_New.pdb

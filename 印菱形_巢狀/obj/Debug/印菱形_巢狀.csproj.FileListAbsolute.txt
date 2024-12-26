@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\bin\Debug\印菱形_巢狀.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\bin\Debug\印菱形_巢狀.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\bin\Debug\印菱形_巢狀.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\obj\Debug\印菱形_巢狀.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\obj\Debug\印菱形_巢狀.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\obj\Debug\印菱形_巢狀.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\obj\Debug\印菱形_巢狀.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\obj\Debug\印菱形_巢狀.pdb
