@@ -39,6 +39,7 @@ namespace 印菱形_巢狀
             int upper = height % 2 == 0 ? ((height / 2)) : (height / 2 + 1);
             int lower = height - upper;
 
+            //upper triangle build
             for (int current_floor = 1; current_floor <= upper; current_floor++)
             {
                 for (int space = 0; space < (upper - current_floor); space++)
@@ -47,6 +48,8 @@ namespace 印菱形_巢狀
                 { Console.Write('*'); }
                 Console.WriteLine();
             }
+
+            //lower triangle build
             for (int current_floor = lower; current_floor >= 1; current_floor--)
             {
                 for (int space = 1; space < (upper - current_floor + 1); space++)

@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\Dictionary練習\bin\Debug\Dictionary練習.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\Dictionary練習\bin\Debug\Dictionary練習.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\Dictionary練習\bin\Debug\Dictionary練習.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\Dictionary練習\obj\Debug\Dictionary練習.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\Dictionary練習\obj\Debug\Dictionary練習.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\Dictionary練習\obj\Debug\Dictionary練習.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\Dictionary練習\obj\Debug\Dictionary練習.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\Dictionary練習\obj\Debug\Dictionary練習.pdb
