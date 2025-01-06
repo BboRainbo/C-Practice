@@ -43,6 +43,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "股票收益", "股票收�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary練習", "Dictionary練習\Dictionary練習.csproj", "{CDE697DF-4494-44EF-AD21-0A6696994680}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallByValue&Reference", "CallByValue&Reference\CallByValue&Reference.csproj", "{9F32BCAA-6389-41DE-8FC9-38F3375E8F6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "亂數練習", "亂數練習\亂數練習.csproj", "{DA29D336-52EE-42AD-B920-9371141AE114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,14 @@ Global
 		{CDE697DF-4494-44EF-AD21-0A6696994680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDE697DF-4494-44EF-AD21-0A6696994680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDE697DF-4494-44EF-AD21-0A6696994680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F32BCAA-6389-41DE-8FC9-38F3375E8F6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F32BCAA-6389-41DE-8FC9-38F3375E8F6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F32BCAA-6389-41DE-8FC9-38F3375E8F6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F32BCAA-6389-41DE-8FC9-38F3375E8F6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA29D336-52EE-42AD-B920-9371141AE114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA29D336-52EE-42AD-B920-9371141AE114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA29D336-52EE-42AD-B920-9371141AE114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA29D336-52EE-42AD-B920-9371141AE114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\CallByValue&Reference\bin\Debug\CallByValue&Reference.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\CallByValue&Reference\bin\Debug\CallByValue&Reference.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\CallByValue&Reference\bin\Debug\CallByValue&Reference.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\CallByValue&Reference\obj\Debug\CallByValue&Reference.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\CallByValue&Reference\obj\Debug\CallByValue&Reference.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\CallByValue&Reference\obj\Debug\CallByValue&Reference.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\CallByValue&Reference\obj\Debug\CallByValue&Reference.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\CallByValue&Reference\obj\Debug\CallByValue&Reference.pdb

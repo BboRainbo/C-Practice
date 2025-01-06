@@ -9,8 +9,9 @@ using System.Runtime.InteropServices;
 
 namespace CSharp基礎教學
 {
-    internal class Program
+    internal class Program // 類別=> 是由欄位以及方法 所組合成的
     {
+        static int number = 10;
         static void Main(string[] args)
         {
 
@@ -18,7 +19,7 @@ namespace CSharp基礎教學
             // 基本型(能夠用言語表達一個定值): int float double boolean string char 
             // 衍生(參考)型要分配到 new 記憶體): Program,Console,Random
 
-            //class(call by reference) 和 structure(call by value) 的差異
+            //.class(call by reference) 和 structure(call by value) 的差異
             //記憶體溢位
             // int8(tinyint) int16 int32(int) -2147483647~2147483647 uint(不帶負號) int64(long)
             // 8bits 像素風 => 0~255
@@ -28,14 +29,16 @@ namespace CSharp基礎教學
             //double dob = 12.5;
             //float flo = 12.5F;
 
-            //不同應用場景的容器選擇(list、dictionay...)
+            //.?不同應用場景的容器選擇(list、dictionay...)
 
-            //裝箱 boxing => 小類型 放到 大的類型
+            //.裝箱 boxing => 小類型 放到 大的類型
             //拆箱 unboxing => 將大的類型轉回去小類型
 
-            //探討java和C# 的差異: 關於字串的處理
+            //.?探討java和C# 的差異: 關於字串的處理
             // == 和 Equals 的差別(Java和 C# 都有為何 C#不用, find source code)?
 
+
+            DateTime dateTime = new DateTime();
             //方法簽名
             object obj = "abd";
 
@@ -47,5 +50,12 @@ namespace CSharp基礎教學
             int num = (int)chr;
             Console.WriteLine(num);
         }
+
+        static void Test1()
+        {
+            int number2 = 20;
+        }
+
+        static void Test2() { }
     }
 }
