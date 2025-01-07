@@ -12,9 +12,10 @@ namespace 亂數練習
         {
             for (int i = 0; i < 10; i++)
             {
-                Random random = new Random();
-                int value = random.Next(1, 11);
-                Console.WriteLine(value);
+                Console.WriteLine(Guid.NewGuid());
+                //Random random = new Random(Guid.NewGuid().GetHashCode());
+                //int value = random.Next(1, 11);
+                //Console.WriteLine(value);
             }
 
             Console.ReadKey();

@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\三位一撇\bin\Debug\三位一撇.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\三位一撇\bin\Debug\三位一撇.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\三位一撇\bin\Debug\三位一撇.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\三位一撇\obj\Debug\三位一撇.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\三位一撇\obj\Debug\三位一撇.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\三位一撇\obj\Debug\三位一撇.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\三位一撇\obj\Debug\三位一撇.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\三位一撇\obj\Debug\三位一撇.pdb
