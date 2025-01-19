@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SW\\CSharpLearning\\C-Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}|HappyNumber\\HappyNumber.csproj|d:\\sw\\csharplearning\\c-practice\\happynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}|HappyNumber\\HappyNumber.csproj|solutionrelative:happynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF8D8C2-A5A0-46B8-91F4-1DFDCF652E5A}|\u6A94\u6848\u8907\u88FD\\\u6A94\u6848\u8907\u88FD.csproj|d:\\sw\\csharplearning\\c-practice\\\u6A94\u6848\u8907\u88FD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF8D8C2-A5A0-46B8-91F4-1DFDCF652E5A}|\u6A94\u6848\u8907\u88FD\\\u6A94\u6848\u8907\u88FD.csproj|solutionrelative:\u6A94\u6848\u8907\u88FD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2E6A11-42B5-4914-BD91-C4FC57D7EBF2}|Winform\u6E2C\u8A66\\Winform\u6E2C\u8A66.csproj|d:\\sw\\csharplearning\\c-practice\\winform\u6E2C\u8A66\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2E6A11-42B5-4914-BD91-C4FC57D7EBF2}|Winform\u6E2C\u8A66\\Winform\u6E2C\u8A66.csproj|solutionrelative:winform\u6E2C\u8A66\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA29D336-52EE-42AD-B920-9371141AE114}|\u4E82\u6578\u7DF4\u7FD2\\\u4E82\u6578\u7DF4\u7FD2.csproj|d:\\sw\\csharplearning\\c-practice\\\u4E82\u6578\u7DF4\u7FD2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA29D336-52EE-42AD-B920-9371141AE114}|\u4E82\u6578\u7DF4\u7FD2\\\u4E82\u6578\u7DF4\u7FD2.csproj|solutionrelative:\u4E82\u6578\u7DF4\u7FD2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F32BCAA-6389-41DE-8FC9-38F3375E8F6D}|CallByValue\u0026Reference\\CallByValue\u0026Reference.csproj|D:\\SW\\CSharpLearning\\C-Practice\\callbyvalue\u0026reference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F32BCAA-6389-41DE-8FC9-38F3375E8F6D}|CallByValue\u0026Reference\\CallByValue\u0026Reference.csproj|solutionrelative:callbyvalue\u0026reference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C8A68B-81A5-4FAF-BF7C-8CF3476B381B}|CSharp\u57FA\u790E\u6559\u5B78\\CSharp\u57FA\u790E\u6559\u5B78.csproj|D:\\SW\\CSharpLearning\\C-Practice\\csharp\u57FA\u790E\u6559\u5B78\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C8A68B-81A5-4FAF-BF7C-8CF3476B381B}|CSharp\u57FA\u790E\u6559\u5B78\\CSharp\u57FA\u790E\u6559\u5B78.csproj|solutionrelative:csharp\u57FA\u790E\u6559\u5B78\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SW\\CSharpLearning\\C-Practice\\\u6A94\u6848\u8907\u88FD\\Program.cs",
+              "RelativeDocumentMoniker": "\u6A94\u6848\u8907\u88FD\\Program.cs",
+              "ToolTip": "D:\\SW\\CSharpLearning\\C-Practice\\\u6A94\u6848\u8907\u88FD\\Program.cs",
+              "RelativeToolTip": "\u6A94\u6848\u8907\u88FD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:53:12.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SW\\CSharpLearning\\C-Practice\\Winform\u6E2C\u8A66\\Program.cs",
+              "RelativeDocumentMoniker": "Winform\u6E2C\u8A66\\Program.cs",
+              "ToolTip": "D:\\SW\\CSharpLearning\\C-Practice\\Winform\u6E2C\u8A66\\Program.cs",
+              "RelativeToolTip": "Winform\u6E2C\u8A66\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:53:05.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SW\\CSharpLearning\\C-Practice\\HappyNumber\\Program.cs",
+              "RelativeDocumentMoniker": "HappyNumber\\Program.cs",
+              "ToolTip": "D:\\SW\\CSharpLearning\\C-Practice\\HappyNumber\\Program.cs",
+              "RelativeToolTip": "HappyNumber\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:07:48.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SW\\CSharpLearning\\C-Practice\\\u4E82\u6578\u7DF4\u7FD2\\Program.cs",
+              "RelativeDocumentMoniker": "\u4E82\u6578\u7DF4\u7FD2\\Program.cs",
+              "ToolTip": "D:\\SW\\CSharpLearning\\C-Practice\\\u4E82\u6578\u7DF4\u7FD2\\Program.cs",
+              "RelativeToolTip": "\u4E82\u6578\u7DF4\u7FD2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:18:04.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SW\\CSharpLearning\\C-Practice\\CSharp\u57FA\u790E\u6559\u5B78\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp\u57FA\u790E\u6559\u5B78\\Program.cs",
+              "ToolTip": "D:\\SW\\CSharpLearning\\C-Practice\\CSharp\u57FA\u790E\u6559\u5B78\\Program.cs",
+              "RelativeToolTip": "CSharp\u57FA\u790E\u6559\u5B78\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:18:04.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SW\\CSharpLearning\\C-Practice\\CallByValue\u0026Reference\\Program.cs",
+              "RelativeDocumentMoniker": "CallByValue\u0026Reference\\Program.cs",
+              "ToolTip": "D:\\SW\\CSharpLearning\\C-Practice\\CallByValue\u0026Reference\\Program.cs",
+              "RelativeToolTip": "CallByValue\u0026Reference\\Program.cs",
+              "ViewState": "AQIAAAgAAAAgzczMzMwQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:18:04.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

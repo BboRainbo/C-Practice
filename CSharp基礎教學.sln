@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "三位一撇", "三位一�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "檔案複製", "檔案複製\檔案複製.csproj", "{8DF8D8C2-A5A0-46B8-91F4-1DFDCF652E5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{8DF8D8C2-A5A0-46B8-91F4-1DFDCF652E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DF8D8C2-A5A0-46B8-91F4-1DFDCF652E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DF8D8C2-A5A0-46B8-91F4-1DFDCF652E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

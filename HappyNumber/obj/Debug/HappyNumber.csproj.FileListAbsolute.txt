@@ -1,0 +1,7 @@
+D:\SW\CSharpLearning\C-Practice\HappyNumber\bin\Debug\HappyNumber.exe.config
+D:\SW\CSharpLearning\C-Practice\HappyNumber\bin\Debug\HappyNumber.exe
+D:\SW\CSharpLearning\C-Practice\HappyNumber\bin\Debug\HappyNumber.pdb
+D:\SW\CSharpLearning\C-Practice\HappyNumber\obj\Debug\HappyNumber.csproj.AssemblyReference.cache
+D:\SW\CSharpLearning\C-Practice\HappyNumber\obj\Debug\HappyNumber.csproj.CoreCompileInputs.cache
+D:\SW\CSharpLearning\C-Practice\HappyNumber\obj\Debug\HappyNumber.exe
+D:\SW\CSharpLearning\C-Practice\HappyNumber\obj\Debug\HappyNumber.pdb
