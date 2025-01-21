@@ -1,0 +1,7 @@
+D:\SW\CSharpLearning\C-Practice\Group Anagrams\obj\Debug\Group Anagrams.csproj.AssemblyReference.cache
+D:\SW\CSharpLearning\C-Practice\Group Anagrams\obj\Debug\Group Anagrams.csproj.CoreCompileInputs.cache
+D:\SW\CSharpLearning\C-Practice\Group Anagrams\bin\Debug\Group Anagrams.exe.config
+D:\SW\CSharpLearning\C-Practice\Group Anagrams\bin\Debug\Group Anagrams.exe
+D:\SW\CSharpLearning\C-Practice\Group Anagrams\bin\Debug\Group Anagrams.pdb
+D:\SW\CSharpLearning\C-Practice\Group Anagrams\obj\Debug\Group Anagrams.exe
+D:\SW\CSharpLearning\C-Practice\Group Anagrams\obj\Debug\Group Anagrams.pdb

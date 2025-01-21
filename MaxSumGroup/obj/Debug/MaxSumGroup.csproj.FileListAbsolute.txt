@@ -1,0 +1,7 @@
+D:\SW\CSharpLearning\C-Practice\MaxSumGroup\bin\Debug\MaxSumGroup.exe.config
+D:\SW\CSharpLearning\C-Practice\MaxSumGroup\bin\Debug\MaxSumGroup.exe
+D:\SW\CSharpLearning\C-Practice\MaxSumGroup\bin\Debug\MaxSumGroup.pdb
+D:\SW\CSharpLearning\C-Practice\MaxSumGroup\obj\Debug\MaxSumGroup.csproj.AssemblyReference.cache
+D:\SW\CSharpLearning\C-Practice\MaxSumGroup\obj\Debug\MaxSumGroup.csproj.CoreCompileInputs.cache
+D:\SW\CSharpLearning\C-Practice\MaxSumGroup\obj\Debug\MaxSumGroup.exe
+D:\SW\CSharpLearning\C-Practice\MaxSumGroup\obj\Debug\MaxSumGroup.pdb

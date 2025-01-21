@@ -6,3 +6,10 @@ C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\obj\Debug\印菱�
 C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\obj\Debug\印菱形_巢狀.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\obj\Debug\印菱形_巢狀.exe
 C:\Users\user\Desktop\Net\CSharp基礎教學\印菱形_巢狀\obj\Debug\印菱形_巢狀.pdb
+D:\SW\CSharpLearning\C-Practice\印菱形_巢狀\bin\Debug\印菱形_巢狀.exe.config
+D:\SW\CSharpLearning\C-Practice\印菱形_巢狀\bin\Debug\印菱形_巢狀.exe
+D:\SW\CSharpLearning\C-Practice\印菱形_巢狀\bin\Debug\印菱形_巢狀.pdb
+D:\SW\CSharpLearning\C-Practice\印菱形_巢狀\obj\Debug\印菱形_巢狀.csproj.AssemblyReference.cache
+D:\SW\CSharpLearning\C-Practice\印菱形_巢狀\obj\Debug\印菱形_巢狀.csproj.CoreCompileInputs.cache
+D:\SW\CSharpLearning\C-Practice\印菱形_巢狀\obj\Debug\印菱形_巢狀.exe
+D:\SW\CSharpLearning\C-Practice\印菱形_巢狀\obj\Debug\印菱形_巢狀.pdb

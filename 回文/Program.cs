@@ -10,68 +10,53 @@ namespace 回文
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("請輸入字串");
-            //StrInvert(Console.ReadLine());
-
-            //for (int i = 0; i < input.Length; i++)
-            //{
-            //    Console.WriteLine($"{InputChar[i]}");
-            //}
-
-            // A man, a plan, a canal: Panama
+            Console.WriteLine("請輸入字串");
+            if (InverseCheck(StrTrim(Console.ReadLine())))
+            { Console.WriteLine("輸入為回文!"); }
+            else
+            { Console.WriteLine("輸入非回文!"); }
+        }
 
 
-            // nums = [2,7,11,15], target = 9
-
-
-            // 時間複雜度 => O(n^2)
-            int[] nums = { 2, 7, 11, 15 };
-            int target = 9;
-
-            //HW1: 介紹甚麼是 時間複雜度 空間複雜度
-            //Hw2: Dictionary是 O(1) => 只需要找一次就可以找到， 思考兩個問題:
-            //1. 但是dicionary的資料建檔難道不用紀錄嗎?
-            //Dictionay Read O(1), 那 Write 呢?
-
-            //2. 為甚麼dcitionary 可以是O(1)
-            // O(1) =>
-            Dictionary<int, int> dict = new Dictionary<int, int>();
-
-            for (int i = 0; i < nums.Length; i++)
+        static string StrTrim(string input)
+        {
+            List<char> InputList = new List<char>(input);
+            int ASC_0 = 48;
+            int ASC_9 = 57;
+            int ASC_A = 65;
+            int ASC_Z = 90;
+            int ASC_a = 97;
+            int ASC_z = 122;
+            //
+            for (int i = input.Length; i > 0; i--)
             {
-                for (int j = 0; j < nums.Length; j++)
-                {
-                    if (nums[i] + nums[j] == target)
-                    {
-                        Console.WriteLine($"{nums[i]}, {nums[j]}");
-                        return;
-                    }
+                if (!((ASC_0 <= (int)InputList[i - 1] && (int)InputList[i - 1] <= ASC_9) ||
+                      (ASC_A <= (int)InputList[i - 1] && (int)InputList[i - 1] <= ASC_Z) ||
+                      (ASC_a <= (int)InputList[i - 1] && (int)InputList[i - 1] <= ASC_z)))
+                { 
+                    InputList.RemoveAt(i-1);
                 }
             }
+            Console.WriteLine($"{string.Concat(InputList)}");
+            Console.ReadLine();
+            return string.Concat(InputList);
         }
-        //abccba
-        //
-
-        //for (i)
-        //{
-        ////str[i]==str[str.Length-i]
-        ////跳出條件為不相等或者是旗標相遇
-        //}
-
-        //while (左右旗標未相遇)
-        //{
-        //左右旗標shift
-        //比對字元
-        //if 不相等跳出
-        //}
-
-        static void StrInvert(string input)
+        static bool InverseCheck(string input)
         {
-            Char[] InputChar = input.ToCharArray();
-            for (int i = 0; i < input.Length; i++)
+            int L_flag = 0;
+            int R_flag = input.Length-1;
+
+            while (L_flag < R_flag)
             {
-                Console.Write(InputChar[input.Length - i - 1]);
+                if (input[L_flag] != input[R_flag])
+                {
+                    return false;
+                }
+                L_flag = L_flag + 1;
+                R_flag = R_flag - 1;
+
             }
+            return true;
         }
     }
 }

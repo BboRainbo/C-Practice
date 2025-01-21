@@ -1,0 +1,7 @@
+D:\SW\CSharpLearning\C-Practice\Anagram\bin\Debug\Anagram.exe.config
+D:\SW\CSharpLearning\C-Practice\Anagram\bin\Debug\Anagram.exe
+D:\SW\CSharpLearning\C-Practice\Anagram\bin\Debug\Anagram.pdb
+D:\SW\CSharpLearning\C-Practice\Anagram\obj\Debug\Anagram.csproj.AssemblyReference.cache
+D:\SW\CSharpLearning\C-Practice\Anagram\obj\Debug\Anagram.csproj.CoreCompileInputs.cache
+D:\SW\CSharpLearning\C-Practice\Anagram\obj\Debug\Anagram.exe
+D:\SW\CSharpLearning\C-Practice\Anagram\obj\Debug\Anagram.pdb

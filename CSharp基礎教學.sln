@@ -51,6 +51,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "檔案複製", "檔案複�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2SUM", "2SUM\2SUM.csproj", "{B54403B0-3FC0-4BF4-9811-F84A89380F72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSumGroup", "MaxSumGroup\MaxSumGroup.csproj", "{7373B667-448A-4F23-B636-99AAC8CD7BD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagram_dictionary", "Anagram\Anagram_dictionary.csproj", "{81EDC568-BA79-462B-8388-FB8062BF8D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group Anagrams_dictionary", "Group Anagrams\Group Anagrams_dictionary.csproj", "{2D9F7B8E-012D-4AA8-BD3F-3F9A521ECE18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +161,22 @@ Global
 		{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70BA8F8D-A03C-4A7F-BF0A-8112C5C5A498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54403B0-3FC0-4BF4-9811-F84A89380F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54403B0-3FC0-4BF4-9811-F84A89380F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54403B0-3FC0-4BF4-9811-F84A89380F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54403B0-3FC0-4BF4-9811-F84A89380F72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7373B667-448A-4F23-B636-99AAC8CD7BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7373B667-448A-4F23-B636-99AAC8CD7BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7373B667-448A-4F23-B636-99AAC8CD7BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7373B667-448A-4F23-B636-99AAC8CD7BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81EDC568-BA79-462B-8388-FB8062BF8D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81EDC568-BA79-462B-8388-FB8062BF8D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81EDC568-BA79-462B-8388-FB8062BF8D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81EDC568-BA79-462B-8388-FB8062BF8D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9F7B8E-012D-4AA8-BD3F-3F9A521ECE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9F7B8E-012D-4AA8-BD3F-3F9A521ECE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9F7B8E-012D-4AA8-BD3F-3F9A521ECE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9F7B8E-012D-4AA8-BD3F-3F9A521ECE18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

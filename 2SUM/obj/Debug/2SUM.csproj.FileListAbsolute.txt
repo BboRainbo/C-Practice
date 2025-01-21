@@ -1,0 +1,7 @@
+D:\SW\CSharpLearning\C-Practice\2SUM\bin\Debug\2SUM.exe.config
+D:\SW\CSharpLearning\C-Practice\2SUM\bin\Debug\2SUM.exe
+D:\SW\CSharpLearning\C-Practice\2SUM\bin\Debug\2SUM.pdb
+D:\SW\CSharpLearning\C-Practice\2SUM\obj\Debug\2SUM.csproj.AssemblyReference.cache
+D:\SW\CSharpLearning\C-Practice\2SUM\obj\Debug\2SUM.csproj.CoreCompileInputs.cache
+D:\SW\CSharpLearning\C-Practice\2SUM\obj\Debug\2SUM.exe
+D:\SW\CSharpLearning\C-Practice\2SUM\obj\Debug\2SUM.pdb
