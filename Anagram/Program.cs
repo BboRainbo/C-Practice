@@ -11,7 +11,7 @@ namespace Anagram
         static void Main(string[] args)
         {
             Console.WriteLine("請輸入第一個字串");
-            Dictionary<char,int> dict1 = BuildDictionary(Console.ReadLine());
+            Dictionary<char, int> dict1 = BuildDictionary(Console.ReadLine());
             Console.WriteLine("請輸入第二個字串");
             Dictionary<char, int> dict2 = BuildDictionary(Console.ReadLine());
             DictionaryEqual(dict1, dict2);
@@ -29,9 +29,9 @@ namespace Anagram
             }
             return dict;
         }
-        static void DictionaryEqual(Dictionary<char, int> dict1,Dictionary<char,int> dict2)
+        static void DictionaryEqual(Dictionary<char, int> dict1, Dictionary<char, int> dict2)
         {
-            bool result = true;    
+            bool result = true;
             //若 dictionary 內部元素數量不同
             if (!(dict1.Count == dict2.Count))
             {
@@ -40,12 +40,11 @@ namespace Anagram
 
             foreach (var kvp in dict1)
             {
-            //若dict2 不包含 dict1 的 key 或 value 不相等
+                //若dict2 不包含 dict1 的 key 或 value 不相等
                 if (!(dict2.Contains(kvp)) || !(dict2[kvp.Key] == kvp.Value))
-                { 
+                {
                     result = false;
                 }
-            
             }
             if (result) { Console.WriteLine("是Anagram"); }
             else { Console.WriteLine("非Anagram"); }

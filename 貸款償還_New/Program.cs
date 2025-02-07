@@ -34,6 +34,7 @@ namespace 貸款償還_New
                     continue;
                 }
 
+                double value = GetDoubleValue("請輸入年收入");
                 if (IncomeTrans(GetDoubleValue("年收入")) >= 500000)
                 {
                     Console.WriteLine("可償還");
@@ -73,6 +74,11 @@ namespace 貸款償還_New
             }
             return output;
         }
+        /// <summary>
+        ///  取得使用者輸入的浮點數，若使用者輸入非浮點數則會要求反覆輸入，直到能回傳浮點數為止
+        /// </summary>
+        /// <param name="name">要顯示的標題</param>
+        /// <returns>使用者輸入的浮點數</returns>
         static double GetDoubleValue(string name)
         {
             double value = 0;

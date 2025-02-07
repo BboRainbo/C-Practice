@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\中序轉後序\bin\Debug\中序轉後序.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\中序轉後序\bin\Debug\中序轉後序.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\中序轉後序\bin\Debug\中序轉後序.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\中序轉後序\obj\Debug\中序轉後序.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\中序轉後序\obj\Debug\中序轉後序.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\中序轉後序\obj\Debug\中序轉後序.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\中序轉後序\obj\Debug\中序轉後序.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\中序轉後序\obj\Debug\中序轉後序.pdb

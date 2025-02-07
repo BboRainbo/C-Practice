@@ -13,9 +13,9 @@ namespace _2SUM
         {
             //Todo
             //1. 未處理多組配對可滿足條件的狀況(只會輸出最後找到的一組)
-            //2. 
-                int ArrayLength = GetIntValue("陣列長度");
-                int[] IntArray = FillIntArray(ArrayLength);
+            //2. 風險 :  重複如果值重複，key-value 會被跳過
+            int ArrayLength = GetIntValue("陣列長度");
+            int[] IntArray = FillIntArray(ArrayLength);
 
             while (true)
             {
@@ -50,16 +50,16 @@ namespace _2SUM
             }
             Console.WriteLine("您輸入的陣列為");
             for (int i = 0; i < length; i++)
-            { Console.WriteLine($"[{i+1}]:{output[i]}"); }
+            { Console.WriteLine($"[{i + 1}]:{output[i]}"); }
             return output;
         }
-        static Dictionary<int, int> BuildDictionay( int[] IntArray)
+        static Dictionary<int, int> BuildDictionay(int[] IntArray)
         {
             Dictionary<int, int> IntPair = new Dictionary<int, int>();
             for (int i = 0; i < IntArray.Length; i++)
             {
                 if (!(IntPair.ContainsKey(IntArray[i])))
-                IntPair.Add( IntArray[i],i);
+                    IntPair.Add(IntArray[i], i);
             }
             return IntPair;
         }
@@ -73,15 +73,15 @@ namespace _2SUM
             for (int i = 0; i < IntArray.Length; i++)
             {
                 int complement = target - IntArray[i];
-                if (Intpair.ContainsKey(complement)&& (!((Intpair[complement] == i)))) // 排除自己跟自己配對
+                if (Intpair.ContainsKey(complement) && (!((Intpair[complement] == i)))) // 排除自己跟自己配對
                 {
-                        result[0] = Intpair[complement] + 1;
-                        result[1] = i + 1;
+                    result[0] = Intpair[complement] + 1;
+                    result[1] = i + 1;
                     //break; 可在找到第一組時就跳出
                 }
             }
 
-            if (result[0]==0 && result[1] == 0)
+            if (result[0] == 0 && result[1] == 0)
             {
                 Console.WriteLine("未找到符合條件的兩個數字");
             }

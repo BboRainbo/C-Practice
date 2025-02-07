@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\3SUM\bin\Debug\3SUM.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\3SUM\bin\Debug\3SUM.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\3SUM\bin\Debug\3SUM.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\3SUM\obj\Debug\3SUM.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\3SUM\obj\Debug\3SUM.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\3SUM\obj\Debug\3SUM.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\3SUM\obj\Debug\3SUM.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\3SUM\obj\Debug\3SUM.pdb

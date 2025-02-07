@@ -10,31 +10,60 @@ namespace Group_Anagrams
     {
         static void Main(string[] args)
         {
+            ///aaabbbbccda = a4b4c2d1
+
+
             string[] input = { "eat", "tea", "tan", "ate", "nat", "bat" };
+
             string[] EigenSorted = new string[input.Length]; //儲存字串特徵值
-            Dictionary<string,int> GroupDict = new Dictionary<string,int>(); //儲存組別與特徵值的關係   
+            List<List<string>> groups = new List<List<string>>();
+            Dictionary<string, int> GroupDict = new Dictionary<string, int>(); //儲存組別與特徵值的關係   
 
             //將
-            for(int i =0;i<input.Length;i++)
+            for (int i = 0; i < input.Length; i++)
             {
                 EigenSorted[i] = SortDictionary(BuildDictionary(input[i]));
             }
 
             int TeamNum = 0;
-            for (int i =0;i<EigenSorted.Length;i++)
+            for (int i = 0; i < EigenSorted.Length; i++)
             {
-                
+
                 if (!(GroupDict.ContainsKey(EigenSorted[i])))
-                { GroupDict.Add(EigenSorted[i], TeamNum); TeamNum++; }
+                {
+                    GroupDict.Add(EigenSorted[i], TeamNum);
+                    TeamNum++;
+                    //添加一個新組別
+                    List<string> group = new List<string>();
+                    groups.Add(group);
+                    groups[TeamNum].Add(input[i]);
+                }
+                else
+                {
+                    //現有組別增加成員 ;
+                    //1.讀取組別值
+                    //2.放入 list
+                    TeamNum = GroupDict[EigenSorted[i]];
+                    groups[TeamNum].Add(input[i]);
+
+                }
             }
+
+            foreach (var list in groups)
+            {
+                for (int i = 0; i < list.Count; i++)
+                    Console.WriteLine(list[i]);
+            }
+            O(3n)
 
             PrintDictionary(GroupDict);
 
             Console.WriteLine("各個數字的組別為");
             for (int i = 0; i < input.Length; i++)
-            { 
-                Console.WriteLine($"{ GroupDict[EigenSorted[i]]}");                
+            {
+                Console.WriteLine($"{GroupDict[EigenSorted[i]]}");
             }
+            Console.ReadKey();
 
 
         }
@@ -98,8 +127,8 @@ namespace Group_Anagrams
             return output;
         }
     }
-        
+
 
 
 }
-   
+

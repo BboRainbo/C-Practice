@@ -5,3 +5,11 @@ D:\SW\CSharpLearning\C-Practice\2SUM\obj\Debug\2SUM.csproj.AssemblyReference.cac
 D:\SW\CSharpLearning\C-Practice\2SUM\obj\Debug\2SUM.csproj.CoreCompileInputs.cache
 D:\SW\CSharpLearning\C-Practice\2SUM\obj\Debug\2SUM.exe
 D:\SW\CSharpLearning\C-Practice\2SUM\obj\Debug\2SUM.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\2SUM\bin\Debug\2SUM.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\2SUM\bin\Debug\2SUM.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\2SUM\bin\Debug\2SUM.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\2SUM\obj\Debug\2SUM.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\2SUM\obj\Debug\2SUM.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\2SUM\obj\Debug\2SUM.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\2SUM\obj\Debug\2SUM.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\2SUM\obj\Debug\2SUM.pdb

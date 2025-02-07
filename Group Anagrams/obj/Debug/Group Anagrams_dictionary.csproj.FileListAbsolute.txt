@@ -5,3 +5,10 @@ D:\SW\CSharpLearning\C-Practice\Group Anagrams\obj\Debug\Group Anagrams_dictiona
 D:\SW\CSharpLearning\C-Practice\Group Anagrams\obj\Debug\Group Anagrams_dictionary.csproj.CoreCompileInputs.cache
 D:\SW\CSharpLearning\C-Practice\Group Anagrams\obj\Debug\Group Anagrams.exe
 D:\SW\CSharpLearning\C-Practice\Group Anagrams\obj\Debug\Group Anagrams.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\Group Anagrams\bin\Debug\Group Anagrams.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\Group Anagrams\bin\Debug\Group Anagrams.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\Group Anagrams\obj\Debug\Group Anagrams_dictionary.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\Group Anagrams\obj\Debug\Group Anagrams_dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\Group Anagrams\obj\Debug\Group Anagrams_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\Group Anagrams\obj\Debug\Group Anagrams.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\Group Anagrams\obj\Debug\Group Anagrams.pdb

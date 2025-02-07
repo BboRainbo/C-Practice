@@ -22,12 +22,11 @@ namespace 質數判斷
 
                 //計算 array size，宣告陣列
                 array_size = ((Range % 2) == 0) ? ((Range / 2) - 1) : ((Range - 1) / 2);
-                int[] Numlist = new int[array_size];
 
+                int[] Numlist = ArrayGen(array_size);
                 // 計時器開始
                 Stopwatch stopwatch = Stopwatch.StartNew();
 
-                ArrayGen(Numlist);
                 FindPrime(Numlist);
                 PrintArray(Numlist);
 
@@ -39,13 +38,16 @@ namespace 質數判斷
         }
 
         #region Function
-        static void ArrayGen(int[] Numlist)
+        static int[] ArrayGen(int array_size)
         {
+            int[] Numlist = new int[array_size];
             //去除偶數，填入陣列
             for (int i = 1; i <= Numlist.Length; i++)
             {
                 Numlist[i - 1] = 2 * i + 1;
             }
+
+            return Numlist;
         }
 
         static void FindPrime(int[] Array)
