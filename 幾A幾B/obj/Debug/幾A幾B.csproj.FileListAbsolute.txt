@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\幾A幾B\bin\Debug\幾A幾B.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\幾A幾B\bin\Debug\幾A幾B.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\幾A幾B\bin\Debug\幾A幾B.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\幾A幾B\obj\Debug\幾A幾B.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\幾A幾B\obj\Debug\幾A幾B.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\幾A幾B\obj\Debug\幾A幾B.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\幾A幾B\obj\Debug\幾A幾B.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\幾A幾B\obj\Debug\幾A幾B.pdb
