@@ -1,0 +1,51 @@
+使用Winform 的用意在於縮小 scope
+WinForm章節：
+(重點是架構)
+WinForm => (前後端分離的架構+學會前端工具使用 = 做出各種不同的應用) 目標:80%的程式都能重複使用，20% UI重新開發
+1.小算盤 => 認識三大特性 + SOLID五大原則 + DesignPattern
+2.模擬大樂透開獎 => 熟悉前後端分離的架構 + 針對物件導向的封裝 加強熟悉 + 如何動態生成前端物件
+<MAUI APP 設計> =>　感受如何在一行程式碼都不用改寫的情況下，能自動完成ＡＰＰ移植
+<GIT版本控制> => 能夠學會版本控制切換 以及正統GitFlow流程
+
+3.POS機點餐應用 => 更進階物件導向開發技巧,擴充功能 + 模擬業界需求(在不告訴你完整需求的情況下思考如何實現好維護好擴展的架構) + eventHandler事件處理 + 兩個 DesignPattern (觀察者模式+策略模式) 
+=>在一行程式碼都不能更改且編譯執行按鈕(綠色的按鈕)也不能啟動的情況下，可以任意抽換餐點菜單以及促銷打折折扣功能。
+<學會自製LinkedList> => 感受+考驗 物件導向技巧 + 泛型 + 委派 + 在不依賴 array/list/stack/queue/dictionary/hashset 要實作一個一模一樣的List  => 迭代模式
+<自製LINQ> => 學會如何自己寫出 Select/Where/Any/First/LastQ
+<Youtuber上片通知> => 學習觀察者模式+RXJS＝
+<自製EventHandler>
+
+4.記帳應用程式 => 復刻天天記帳APP + CSV檔案讀取/寫入 + 根據資料內容動態資料群組<591租屋資料group by> + 圖表繪製(圓餅圖 直條圖 折線圖) + 自創DesignPattern (獨體模式 + (建造者模式 抽象工廠 策略模式) => 自創pattern) + 掌握記憶體管理(memory leak) + 自製使用者元件
+<自製CSV套件> => 學習如何自己開發一個獨立套件(Library) + 泛型 + 反射
+<分層架構設計> => 了解各種 MVC/MVP/MVVM 專案分層架構 => 實作MVP以及MVC架構
+<記憶體洩漏MemoryLeak> => 透過自製DebounceTime解決記憶體洩漏問題  + 圖檔壓縮
+<AutoMapper> => 自製AutoMapper套件
+<了解多執行緒> => 了解多執行序 MultiThread、了解Thread & Task哪裡不同、lock 互斥鎖
+<非同步網路開發> => 大檔案分散式平行處理寫入（百萬～千萬筆資料）、了解後端非同步與前端非同步有何不同
+
+
+5.Imgur應用程式 =>復刻Imgur Application , 網路傳輸協定 TCP/IP HttpRquest,RestfulAPI,OAuth2.0
+<了解網路通訊協定> => 了解OSI 網路五層、DNS、DHCP、了解如何切割網段
+<了解第三方服務> => Imgur API Token, Google第三方登入、Line Notify串接
+<自製HttpRequest> => 製作屬於自己的HttpLibrary (必須要能重複使用) + 學會非同步的網路開發
+<分層架構> => 先學會寫HTTP => 再學會寫 ImgurAPI 服務 => 復刻WinForm版本的 Imgur
+<自製WinForm套件> => 自製分頁套件
+<DI容器注入> => 學會控制反轉+ 模仿微軟的DI套件來自製 DI容器
+
+6.旅遊景點規劃 應用程式 => 運用GoogleMap API 來去開發旅遊景點規劃應用 => 行程規劃 旅遊應用
+<串接GoogleMAP API>  => 讀懂 GoogleMap API  => 學習別人的 Google Map Github Source Code => 自製 GoogleMap API Library (學會再不依賴google/開發文件 要有能力通靈 學會使用套件)
+<串接Google Map> => 使用別人寫好的 第三方的GoogleMap套件 => 自製/加工 GoogleMap Library => Google Map SDK
+<自製WinForm套件> => AutoComplete套件
+<匯出word/pdf> => 匯出指定旅遊規劃文件 (套版)
+
+7.電商系統 => 資料庫 網路爬蟲 第三方服務金流串接
+<資料庫> => 完整學習如何根據需求規劃資料表 根據不同的需求都能撰寫SQL
+<資料庫ORM套件> => 能夠像CSV套件一樣做到用物件導向的方式來存取各式資料 (支援LINQ)
+<網路爬蟲> => 爬取想爬的資料
+<分層架構設計> => 了解過去的三層式架構 DDD(領域驅動) 導入Contract First/Repository Pattern 概念開發資料庫應用
+<綠界科技金流開發> => 了解完整的電商系統需要具備哪些 刷卡/發票開立/物流運輸
+<狀態機管理> => 不同的流程會對應到不同的事件觸發來呈現當下的狀態
+<單元測試> => ?
+
+8.做你自己想做的winform專案熟悉資料庫串接 (或者可以直接進入Web)
+
+作為培養資深工程師，在這階段會很頻繁使用到資深工程師的三件套: 泛型 反射 委派 的技能。
