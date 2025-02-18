@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Net\CSharp基礎教學\零錢兌換\bin\Debug\零錢兌換.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\零錢兌換\bin\Debug\零錢兌換.exe.config
+C:\Users\user\Desktop\Net\CSharp基礎教學\零錢兌換\bin\Debug\零錢兌換.pdb
+C:\Users\user\Desktop\Net\CSharp基礎教學\零錢兌換\obj\Debug\零錢兌換.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\零錢兌換\obj\Debug\零錢兌換.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\零錢兌換\obj\Debug\零錢兌換.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Net\CSharp基礎教學\零錢兌換\obj\Debug\零錢兌換.exe
+C:\Users\user\Desktop\Net\CSharp基礎教學\零錢兌換\obj\Debug\零錢兌換.pdb

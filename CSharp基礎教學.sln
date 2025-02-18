@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "中序轉後序", "中序�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "幾A幾B", "幾A幾B\幾A幾B.csproj", "{4264FFCD-7643-47F3-A9A3-F5F14D00AF0A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "幾A幾B_功能拆分", "幾A幾B_功能拆分\幾A幾B_功能拆分.csproj", "{1C2B7BD6-403A-484F-961A-03D30C037795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "零錢兌換", "零錢兌換\零錢兌換.csproj", "{2F442E70-7C2A-43DA-8457-055ADB3701B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{4264FFCD-7643-47F3-A9A3-F5F14D00AF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4264FFCD-7643-47F3-A9A3-F5F14D00AF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4264FFCD-7643-47F3-A9A3-F5F14D00AF0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2B7BD6-403A-484F-961A-03D30C037795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2B7BD6-403A-484F-961A-03D30C037795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2B7BD6-403A-484F-961A-03D30C037795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2B7BD6-403A-484F-961A-03D30C037795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F442E70-7C2A-43DA-8457-055ADB3701B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F442E70-7C2A-43DA-8457-055ADB3701B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F442E70-7C2A-43DA-8457-055ADB3701B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F442E70-7C2A-43DA-8457-055ADB3701B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
